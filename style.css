@@ -572,13 +572,14 @@ button:hover
       }
       #order h2
       {
-        font-size: 50px;
+        margin-right: 20px;
+        font-size: 48px;
       }
       #order .form input
       {
         padding: 5px;
         margin: 20px;
-        margin-left: 137px;
+        margin-left: 100px;
         display: flex;
       }
       #contact .cont .info
